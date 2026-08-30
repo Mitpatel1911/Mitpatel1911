@@ -1,128 +1,164 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=MITKUMAR%20PATEL&fontSize=42&color=0:00C9FF,100:6A5ACD&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2600&pause=900&color=00C9FF&center=true&vCenter=true&width=900&lines=Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Cleaning+Messy+Data+Into+Clear+Insights;Dashboards+That+Drive+Decisions;Future+Analyst+Building+Strong+Portfolio;Open+for+Internships+%26+Full-Time+Roles" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=MITKUMAR%20PATEL&fontSize=52&fontColor=00F5FF&fontAlignY=42&animation=fadeIn&desc=Cloud%20%2F%20DevOps%20Engineer%20%C2%B7%20Fresher%20%C2%B7%20Gujarat,%20India&descAlignY=62&descSize=17&descColor=8FD6FF"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge&logo=glassdoor"/>
-<img src="https://img.shields.io/badge/Role-Data%20Analyst-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Experience-Fresher-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Ahmedabad-informational?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mindset-Growth-purple?style=for-the-badge"/>
-</p>
+<br>
 
-<h3 align="center">📊 Data Analyst Aspirant | Fresher | Open to Work | Ahmedabad, India</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=kubectl+apply+-f+career.yaml;terraform+apply+--target%3Ddream_job;%23+Automating+infra%2C+one+pipeline+at+a+time;%23+Open+to+Internships+%26+Full-Time+Roles" />
 
-# 🧠 About Me
+<br><br>
 
-<img align="right" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<a href="https://www.linkedin.com/in/-1903-mitkumar-patel/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mitkpatel2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/Mitpatel1911"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=for-the-badge&logo=Statuspage&logoColor=white"/>
 
-🔹 Passionate about solving problems using data  
-🔹 Interested in business insights & reporting  
-🔹 Building skills in analytics tools daily  
-🔹 Focused on becoming industry-ready in 2026  
-🔹 Love learning practical skills over theory  
-🔹 Looking for fresher opportunities  
+<br><br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# 🛠️ Tech Arsenal
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
-</p>
+<br>
 
-<p align="center">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
-<img src="https://img.icons8.com/color/48/ms-office.png"/>
-<img src="https://img.icons8.com/color/48/combo-chart--v1.png"/>
-<img src="https://img.icons8.com/color/48/statistics.png"/>
-</p>
-
----
-
----
-
-# 📂 Premium Portfolio Projects
+## 🧑‍💻&nbsp; About Me
 
 <table>
 <tr>
-<th>Project</th>
-<th>Tools</th>
-<th>Status</th>
-</tr>
+<td width="60%" valign="top">
 
-<tr>
-<td>📊 Sales Dashboard</td>
-<td>Excel, Power BI</td>
-<td>🚧 In Progress</td>
-</tr>
+```py
+class DevOpsEngineer:
+    def __init__(self):
+        self.name       = "Mitkumar Patel"
+        self.role       = "Cloud / DevOps Engineer (Fresher)"
+        self.education  = "B.Tech - IT, 2026"
+        self.location   = "Gujarat 🇮🇳"
+        self.status     = "Open to Work"
 
-<tr>
-<td>🛒 Customer Insights Analysis</td>
-<td>Python, Pandas</td>
-<td>🚧 In Progress</td>
-</tr>
+    def currently_learning(self):
+        return ["AWS", "Kubernetes", "Terraform", "CI/CD"]
 
-<tr>
-<td>📈 KPI Executive Dashboard</td>
-<td>Power BI</td>
-<td>🚧 In Progress</td>
-</tr>
+    def currently_targeting(self):
+        return "AWS Certified Cloud Practitioner 🎯"
 
-<tr>
-<td>🧹 Data Cleaning Automation</td>
-<td>Python</td>
-<td>🚧 In Progress</td>
-</tr>
+    def philosophy(self):
+        return ("Automate the boring. Monitor the critical. "
+                 "Document everything.")
 
+me = DevOpsEngineer()
+me.ship_it()  # 🚀
+```
+
+</td>
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+</td>
+</tr>
 </table>
 
----
+<br>
 
-# 📚 Currently Mastering
+## 🛠️&nbsp; Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-Dashboard-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-Business-purple?style=for-the-badge"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,linux,bash,git,github,githubactions,python&theme=dark&perline=6" />
 
-# 🏆 Achievements
+<br><br>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/> </p>
----
+<img src="https://img.shields.io/badge/AWS-EC2%20·%20S3%20·%20IAM%20·%20VPC%20·%20CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Containers-Docker%20·%20Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/IaC-Terraform%20·%20Ansible-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20·%20GitHub%20Actions-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Monitoring-Prometheus%20·%20Grafana-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-Linux%20·%20Bash-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-# 🤝 Connect With Me
+</div>
 
-<p align="center"> <a href="https://www.linkedin.com/in/-1911-mitkumar-patel/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Mitkumar%20Patel-blue?style=for-the-badge&logo=linkedin"/> </a> </p>
+<br>
 
----
+## 📂&nbsp; Featured Projects
 
-# 💼 Career Mission
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🔭 HIMAS</h3>
+<i>Horizon Infrastructure Monitoring & Alerting System</i>
+<br><br>
 
-> Transform raw business data into clear insights, dashboards, and smarter decisions.
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
----
+<br>
 
-# 👀 Visitors Counter
+![Status](https://img.shields.io/badge/status-coming%20soon-yellow?style=for-the-badge)
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+</td>
+<td width="50%" valign="top">
+<h3>☁️ Personal Cloud & Server Lab</h3>
+<i>Self-managed cloud & server environment for hands-on ops practice</i>
+<br><br>
 
----
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/-Networking-005571?style=flat-square&logo=cisco&logoColor=white)
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer"/>
-</p>
+<br><br>
 
-<h2 align="center">✨ Data Never Lies. Insights Create Impact. ✨</h2>
+![Status](https://img.shields.io/badge/status-coming%20soon-yellow?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎯&nbsp; Certification Roadmap
+
+<div align="center">
+
+| Certification | Status |
+|:--|:--:|
+| ☁️ AWS Certified Cloud Practitioner | 🟢 In Progress |
+| 🏗️ AWS Solutions Architect – Associate | 🟡 Next Up |
+| 🧱 HashiCorp Terraform Associate | ⚪ Planned |
+
+</div>
+
+<br>
+
+## 📊&nbsp; GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mitpatel1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0,0f0c29,302b63"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitpatel1911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,0f0c29,302b63"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mitpatel1911&theme=tokyonight&hide_border=true&background=0F0C29"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mitpatel1911&theme=tokyo-night&hide_border=true&bg_color=0f0c29"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💼&nbsp; Career Mission
+
+### *"Build, automate, and monitor infrastructure that lets teams ship faster, safer, and with confidence."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Mitpatel1911&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
+
+<h3 align="center">✨ Automate Everything &nbsp;·&nbsp; Break Nothing &nbsp;·&nbsp; Ship Confidently ✨</h3>
