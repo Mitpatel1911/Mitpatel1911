@@ -133,21 +133,7 @@ me.ship_it()  # 🚀
 
 <br>
 
-## 📊&nbsp; GitHub Analytics
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mitpatel1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0,0f0c29,302b63"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitpatel1911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,0f0c29,302b63"/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mitpatel1911&theme=tokyonight&hide_border=true&background=0F0C29"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mitpatel1911&theme=tokyo-night&hide_border=true&bg_color=0f0c29"/>
-
-</div>
-
-<br>
-
-<div align="center">
 
 ## 💼&nbsp; Career Mission
 
